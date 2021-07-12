@@ -25,7 +25,6 @@ import numpy as np
 import streamlit as st
 import pydeck as pdk
 import pandas as pd
-import mapbox as mb
 import datetime
 from matplotlib import pyplot as plt
 import seaborn as sns
